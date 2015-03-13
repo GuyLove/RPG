@@ -1,0 +1,27 @@
+{
+  "characters": {
+    "1": "event1.png"
+  },
+  
+  "tilesets": {
+    "1": "tileset.png"
+  },
+  
+  "autotiles": {
+    "2": "autotile1.png",
+    "3": "autotile2.png"
+  },
+  
+  "bgms": {
+    "1": "Heroic Demise.mp3",
+    "2": "plains.mp3"
+  },
+  
+  "windowskins": {
+    "1": "window.png"
+  },
+  
+  "animations": {
+    "1": "anim.png"
+  }
+}
