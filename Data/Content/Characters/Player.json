@@ -1,0 +1,16 @@
+{
+  "id": 2,
+  "data": {
+    "name": "Fagathor",
+    "level_min": "1",
+    "level_max": "99",
+    "class": "2",
+    "weapon": "2",
+    "shield": "2",
+    "helmet": "4",
+    "body_armor": "0",
+    "accessory": "0",
+    "graphic": "1",
+    "params": {}
+  }
+}

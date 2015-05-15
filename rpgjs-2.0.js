@@ -339,6 +339,11 @@ Class.create("Game", {
             d[c + "_" + f] = this[c] + a;
             Game.Canvas.Materials.load(b, d, e)
         }
+    },
+    Assets: {
+        characters: "Data/Content/Characters/",
+        items:      "Data/Content/Items/",
+        weapons:    "Data/Content/Weapons/"
     }
 });
 var Game = Class.New("Game");
